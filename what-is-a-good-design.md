@@ -26,7 +26,7 @@
 
 ---
 
-What is a Good Design?
+# What is a Good Design?
 
 ## 4. Good Design → A Well-Run Restaurant
 - A well-designed system is like a **smoothly operating restaurant**:
