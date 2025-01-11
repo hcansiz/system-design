@@ -18,7 +18,7 @@ Cache is like the spice rack or tools that are within arm’s reach of the chef.
 Pantry/Storage Room The Disk is like the pantry or the freezer where all the ingredients (data) are stored long-term. Fetching ingredients from the pantry (disk) is slow compared to grabbing items from the counter (RAM). 
 An SSD is like having an organized fridge near the kitchen (faster access), while an HDD is like having a pantry in the basement (slower access).
 
-## 5. GPU (Graphics Processing Unit) 
+## 5. GPU (Graphics Processing Unit) 
 Specialized Sous-Chef for Desserts The GPU is like a specialized sous-chef who only makes desserts (or handles visually creative dishes). This chef can prepare many identical dishes (parallel processing) faster than the head chef. For graphics or large computations (like 3D rendering or machine learning), the sous-chef (GPU) handles the heavy lifting.
 
 ## 6. Bus → Kitchen Pathways 
@@ -33,5 +33,5 @@ Kitchen Ventilation and Air Conditioning The cooling system is like the ventilat
 ## 9. I/O Devices
 Waiters and Serving Counters Input devices (keyboard, mouse) are like customers placing orders through waiters. Output devices (monitor, printer) are like the waiters bringing food back to customers. The smoother the communication, the better the service.
 
-# 10. Network Card 
+## 10. Network Card 
 Delivery Driver The Network Interface Card (NIC) is like the delivery driver that brings in online orders and delivers food outside. A fast driver (high-speed internet) gets more orders done in less time.
