@@ -43,3 +43,7 @@ This helps the head chef spot bottlenecks—like a slow chef or a broken stove.
 Alerts are like fire alarms or buzzers in the kitchen.
 If something goes wrong (e.g., oven overheating or food burning), an alarm notifies the chefs immediately.
 Developers get notifications when performance drops below a set standard (e.g., too many failed orders).
+
+<img width="526" alt="Screenshot 2025-01-10 at 21 09 30" src="https://github.com/user-attachments/assets/3f6751df-8fbf-447e-a3a3-3e002763674a" />
+
+
