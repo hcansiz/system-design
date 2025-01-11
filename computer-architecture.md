@@ -35,3 +35,5 @@ Waiters and Serving Counters Input devices (keyboard, mouse) are like customers 
 
 ## 10. Network Card 
 Delivery Driver The Network Interface Card (NIC) is like the delivery driver that brings in online orders and delivers food outside. A fast driver (high-speed internet) gets more orders done in less time.
+
+<img width="557" alt="Screenshot 2025-01-10 at 20 47 12" src="https://github.com/user-attachments/assets/0d1f34af-e6b5-4da4-ae1d-450fd513a4cf" />
