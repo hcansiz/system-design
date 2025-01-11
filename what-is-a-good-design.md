@@ -64,3 +64,5 @@
 - Ways to reduce latency:  
   - **Prepping ingredients early** → Similar to caching.  
   - **Optimized workflows** → Faster order processing.
+
+<img width="411" alt="Screenshot 2025-01-10 at 21 55 01" src="https://github.com/user-attachments/assets/c70d70c0-3ffa-405a-8e2a-35f251bb797c" />
