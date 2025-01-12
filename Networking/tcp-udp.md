@@ -17,7 +17,7 @@ Imagine you're at a **luxury restaurant** where service is meticulous and every 
 
 3. **Step 3 – ACK (Customer Confirms Order):**  
    You confirm,  
-   *"Great! I'd like the grilled salmon, please."*  
+   *"Great! I'd like table water, the grilled salmon, and the chocolate cake."*  
    → This is the client sending an **ACK** packet, completing the **three-way handshake**.
 
 4. **Guaranteed Delivery:**  
