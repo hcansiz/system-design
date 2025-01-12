@@ -15,16 +15,21 @@ Imagine you're at a **luxury restaurant** where service is meticulous and every 
    *"Yes, I'm ready to take your order. What would you like?"*  
    → This is the server replying with a **SYN-ACK** to acknowledge the request.
 
-3. **Step 3 – ACK (Customer Confirms Order):**  
+3. **Step 3 – ACK (Confirmation):**  
    You confirm,  
-   *"Great! I'd like table water, the grilled salmon, and the chocolate cake."*  
+   *"Great!"*  
    → This is the client sending an **ACK** packet, completing the **three-way handshake**.
 
-4. **Guaranteed Delivery:**  
+4. **Data Request (Customer Places the Order):**  
+   You place your order,  
+   *"I'd like table water, the grilled salmon, and the chocolate cake."*  
+   → This is the client sending the actual data to be transferred.
+
+5. **Guaranteed Delivery:**  
    If the chef has any doubt about your order, the waiter returns to confirm. If the kitchen makes a mistake, the dish is remade.  
    → Similarly, **TCP** checks for errors and **resends any lost data packets**.
 
-5. **Ordered Delivery:**  
+6. **Ordered Delivery:**  
    Your meal is served in the correct order: appetizer first, then the main course, followed by dessert.  
    → **TCP** ensures that **all data packets arrive in order**.
 
